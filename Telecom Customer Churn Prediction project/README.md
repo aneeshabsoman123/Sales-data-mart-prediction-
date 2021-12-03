@@ -1,0 +1,1 @@
+A model which will predict if the customer in the telecom sector will churn or not
