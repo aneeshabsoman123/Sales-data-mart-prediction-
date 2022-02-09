@@ -1,1 +1,0 @@
-Car Prices are scrapped from various websites and then Model is built on it
